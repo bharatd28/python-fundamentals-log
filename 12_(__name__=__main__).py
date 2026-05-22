@@ -1,0 +1,2 @@
+import welcomefn
+welcomefn.welcome() 
